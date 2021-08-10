@@ -1,0 +1,4 @@
+insert into TODO (id, title, description, todo_status)
+        values (1, 'Go to market', 'Buy eggs from market', 'NOT_COMPLETED');
+insert into TODO (id, title, description, todo_status)
+        values (2, 'Go to school', 'Complete assignments', 'NOT_COMPLETED');
